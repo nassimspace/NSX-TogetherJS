@@ -1,0 +1,12 @@
+{
+  "name": "nsx-togetherjs-hub-server"
+  "version": 2, // Tells Now which API version to use
+  "regions": ["all"],
+  "cleanUrls": true,
+  "builds": [
+    {
+      "src": "*.js",
+      "use": "@now/node-server" // It's an application!
+    }
+  ]
+}
