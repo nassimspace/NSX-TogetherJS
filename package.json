@@ -2,7 +2,7 @@
   "//1": "describes your app and its dependencies",
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
-  "name": "NSX TogetherJS Public Hub Server",
+  "name": "nsx-togetherjs-public-hub",
   "version": "1.0.0",
   "description": "Mozilla's TogetherJS Public Hub Server Running on Zeit Now",
   "main": "server.js",
