@@ -1,12 +1,11 @@
 {
   "name": "nsx-togetherjs-hub-server",
   "version": 2,
-  "regions": ["all"],
   "cleanUrls": true,
   "builds": [
     {
       "src": "*.js",
-      "use": "@now/node-server" 
+      "use": "@now/node-server"
     }
   ]
 }
