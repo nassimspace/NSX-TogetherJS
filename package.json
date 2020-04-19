@@ -19,7 +19,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/nassimspace/NSX-TogetherJS"
   },
   "license": "MIT",
   "keywords": [
